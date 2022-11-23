@@ -1,0 +1,15 @@
+.app__findus{
+
+    .app__findus-info{
+
+        h1{
+            margin-bottom: 3rem;
+        }
+       
+        .app__findus-info_content{
+            p:nth-child(2){
+                color: var(--color-golden);
+            }
+        }
+    }
+}
