@@ -14,7 +14,7 @@ const Navbar = () => {
       </div>
 
       <ul className='app__navbar-links'>
-        <li className='p__poppins'><a href="#home">Home</a></li>
+        <li className='p__poppins'><a href="#home">Hoome</a></li>
         <li className='p__poppins'><a href="#about">About</a></li>
         <li className='p__poppins'><a href="#menu">Menu</a></li>
         <li className='p__poppins'><a href="#awards">Awards</a></li>
